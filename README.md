@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CptMog
 - 👀 I’m interested in computer scince
-- 🌱 I’m currently learning software engineer
+- 🌱 I’m currently learning Web developpement
 - 💞️ I’m looking to collaborate on fun project
 - 📫 How to reach me ...
 
